@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\GitHub\wordPuzzle\wordPuzzle\wordPuzzle\Source.cpp(23,28): warning C4018:  '<': signed/unsigned mismatch
+D:\GitHub\wordPuzzle\wordPuzzle\wordPuzzle\Source.cpp(25,31): warning C4018:  '<': signed/unsigned mismatch
+D:\GitHub\wordPuzzle\wordPuzzle\wordPuzzle\Source.cpp(33,28): warning C4018:  '<': signed/unsigned mismatch
+  wordPuzzle.vcxproj -> D:\GitHub\wordPuzzle\wordPuzzle\Debug\wordPuzzle.exe
